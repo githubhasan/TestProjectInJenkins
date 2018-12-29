@@ -69,10 +69,10 @@ public class BrowserDriver {
 
 
             if (os.equalsIgnoreCase("windows")) {
-                System.setProperty("webdriver.gecko.driver", "../generic/drivers/windows/geckodriver.exe");
+                System.setProperty("webdriver.gecko.driver", "../generic/drivers/windows/chromedriver.exe");
                 driver = new FirefoxDriver(options);
             } else if (os.equalsIgnoreCase("mac")) {
-                System.setProperty("webdriver.gecko.driver", "../generic/drivers/mac/geckodriver");
+                System.setProperty("webdriver.gecko.driver", "../generic/drivers/mac/chromedriver");
                 driver = new FirefoxDriver(options);
             }
         }
