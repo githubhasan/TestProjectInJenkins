@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+/Users/mdhasan/Intellij/selenium/automationfall/RuslanGroup/ecommerce/src/test/java/page/objects/SignUp.java
+/Users/mdhasan/Intellij/selenium/automationfall/RuslanGroup/ecommerce/src/test/java/test/pageobjects/HomePageTest.java
+/Users/mdhasan/Intellij/selenium/automationfall/RuslanGroup/ecommerce/src/test/java/page/objects/HomePage.java
+/Users/mdhasan/Intellij/selenium/automationfall/RuslanGroup/ecommerce/src/test/java/page/objects/LogIn.java
+/Users/mdhasan/Intellij/selenium/automationfall/RuslanGroup/ecommerce/src/test/java/test/pageobjects/ContactUsPageTest.java
+/Users/mdhasan/Intellij/selenium/automationfall/RuslanGroup/ecommerce/src/test/java/test/pageobjects/LogInTest.java
+/Users/mdhasan/Intellij/selenium/automationfall/RuslanGroup/ecommerce/src/test/java/page/objects/ContactUsPage.java
+/Users/mdhasan/Intellij/selenium/automationfall/RuslanGroup/ecommerce/src/test/java/test/pageobjects/SignUpTest.java
+=======
 /Users/mdhasan/Intellij/selenium/automationfall/TestProjectInJenkins/ecommerce/src/test/java/page/objects/ContactUsPage.java
 /Users/mdhasan/Intellij/selenium/automationfall/TestProjectInJenkins/ecommerce/src/test/java/test/pageobjects/ContactUsPageTest.java
 /Users/mdhasan/Intellij/selenium/automationfall/TestProjectInJenkins/ecommerce/src/test/java/test/pageobjects/SignUpTest.java
@@ -6,3 +16,4 @@
 /Users/mdhasan/Intellij/selenium/automationfall/TestProjectInJenkins/ecommerce/src/test/java/test/pageobjects/HomePageTest.java
 /Users/mdhasan/Intellij/selenium/automationfall/TestProjectInJenkins/ecommerce/src/test/java/page/objects/SignUp.java
 /Users/mdhasan/Intellij/selenium/automationfall/TestProjectInJenkins/ecommerce/src/test/java/page/objects/HomePage.java
+>>>>>>> origin/master
