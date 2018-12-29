@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Automation Framework" duration-ms="58616" started-at="2018-12-29T08:17:40Z" finished-at="2018-12-29T08:18:39Z">
+  <suite name="Automation Framework" duration-ms="43949" started-at="2018-12-29T09:36:41Z" finished-at="2018-12-29T09:37:25Z">
     <groups>
     </groups>
-    <test name="E-Commerce Project" duration-ms="58616" started-at="2018-12-29T08:17:40Z" finished-at="2018-12-29T08:18:39Z">
+    <test name="E-Commerce Project" duration-ms="43949" started-at="2018-12-29T09:36:41Z" finished-at="2018-12-29T09:37:25Z">
       <class name="test.pageobjects.LogInTest">
-        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.pageobjects.LogInTest@36f6e879]" name="setUp" is-config="true" duration-ms="6199" started-at="2018-12-29T03:18:20Z" finished-at="2018-12-29T03:18:26Z">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.pageobjects.LogInTest@36f6e879]" name="setUp" is-config="true" duration-ms="3367" started-at="2018-12-29T04:37:10Z" finished-at="2018-12-29T04:37:14Z">
           <params>
             <param index="0">
               <value>
@@ -16,17 +16,17 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[10]]>
+                <![CDATA[10.14]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[firefox]]>
+                <![CDATA[chrome]]>
               </value>
             </param>
             <param index="3">
               <value>
-                <![CDATA[62.0]]>
+                <![CDATA[71.0.3578.98]]>
               </value>
             </param>
             <param index="4">
@@ -38,21 +38,21 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="initializationOfElements()[pri:0, instance:test.pageobjects.LogInTest@36f6e879]" name="initializationOfElements" is-config="true" duration-ms="0" started-at="2018-12-29T03:18:26Z" finished-at="2018-12-29T03:18:26Z">
+        <test-method status="PASS" signature="initializationOfElements()[pri:0, instance:test.pageobjects.LogInTest@36f6e879]" name="initializationOfElements" is-config="true" duration-ms="0" started-at="2018-12-29T04:37:14Z" finished-at="2018-12-29T04:37:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializationOfElements -->
-        <test-method status="PASS" signature="LogInTest()[pri:3, instance:test.pageobjects.LogInTest@36f6e879]" name="LogInTest" duration-ms="12068" started-at="2018-12-29T03:18:26Z" finished-at="2018-12-29T03:18:38Z">
+        <test-method status="PASS" signature="LogInTest()[pri:3, instance:test.pageobjects.LogInTest@36f6e879]" name="LogInTest" duration-ms="11419" started-at="2018-12-29T04:37:14Z" finished-at="2018-12-29T04:37:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LogInTest -->
-        <test-method status="PASS" signature="closeOut()[pri:0, instance:test.pageobjects.LogInTest@36f6e879]" name="closeOut" is-config="true" duration-ms="668" started-at="2018-12-29T03:18:38Z" finished-at="2018-12-29T03:18:39Z">
+        <test-method status="PASS" signature="closeOut()[pri:0, instance:test.pageobjects.LogInTest@36f6e879]" name="closeOut" is-config="true" duration-ms="93" started-at="2018-12-29T04:37:25Z" finished-at="2018-12-29T04:37:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeOut -->
       </class> <!-- test.pageobjects.LogInTest -->
       <class name="test.pageobjects.ContactUsPageTest">
-        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.pageobjects.ContactUsPageTest@7225790e]" name="setUp" is-config="true" duration-ms="6530" started-at="2018-12-29T03:17:51Z" finished-at="2018-12-29T03:17:57Z">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.pageobjects.ContactUsPageTest@7225790e]" name="setUp" is-config="true" duration-ms="3860" started-at="2018-12-29T04:36:48Z" finished-at="2018-12-29T04:36:52Z">
           <params>
             <param index="0">
               <value>
@@ -61,17 +61,17 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[10]]>
+                <![CDATA[10.14]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[firefox]]>
+                <![CDATA[chrome]]>
               </value>
             </param>
             <param index="3">
               <value>
-                <![CDATA[62.0]]>
+                <![CDATA[71.0.3578.98]]>
               </value>
             </param>
             <param index="4">
@@ -83,21 +83,21 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="initializationOfElements()[pri:0, instance:test.pageobjects.ContactUsPageTest@7225790e]" name="initializationOfElements" is-config="true" duration-ms="5" started-at="2018-12-29T03:17:57Z" finished-at="2018-12-29T03:17:57Z">
+        <test-method status="PASS" signature="initializationOfElements()[pri:0, instance:test.pageobjects.ContactUsPageTest@7225790e]" name="initializationOfElements" is-config="true" duration-ms="3" started-at="2018-12-29T04:36:52Z" finished-at="2018-12-29T04:36:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializationOfElements -->
-        <test-method status="PASS" signature="contactUsTest()[pri:0, instance:test.pageobjects.ContactUsPageTest@7225790e]" name="contactUsTest" duration-ms="1389" started-at="2018-12-29T03:17:57Z" finished-at="2018-12-29T03:17:59Z">
+        <test-method status="PASS" signature="contactUsTest()[pri:0, instance:test.pageobjects.ContactUsPageTest@7225790e]" name="contactUsTest" duration-ms="941" started-at="2018-12-29T04:36:52Z" finished-at="2018-12-29T04:36:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- contactUsTest -->
-        <test-method status="PASS" signature="closeOut()[pri:0, instance:test.pageobjects.ContactUsPageTest@7225790e]" name="closeOut" is-config="true" duration-ms="689" started-at="2018-12-29T03:17:59Z" finished-at="2018-12-29T03:17:59Z">
+        <test-method status="PASS" signature="closeOut()[pri:0, instance:test.pageobjects.ContactUsPageTest@7225790e]" name="closeOut" is-config="true" duration-ms="99" started-at="2018-12-29T04:36:53Z" finished-at="2018-12-29T04:36:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeOut -->
       </class> <!-- test.pageobjects.ContactUsPageTest -->
       <class name="test.pageobjects.SignUpTest">
-        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.pageobjects.SignUpTest@54a097cc]" name="setUp" is-config="true" duration-ms="6531" started-at="2018-12-29T03:17:59Z" finished-at="2018-12-29T03:18:06Z">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.pageobjects.SignUpTest@54a097cc]" name="setUp" is-config="true" duration-ms="4050" started-at="2018-12-29T04:36:53Z" finished-at="2018-12-29T04:36:57Z">
           <params>
             <param index="0">
               <value>
@@ -106,17 +106,17 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[10]]>
+                <![CDATA[10.14]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[firefox]]>
+                <![CDATA[chrome]]>
               </value>
             </param>
             <param index="3">
               <value>
-                <![CDATA[62.0]]>
+                <![CDATA[71.0.3578.98]]>
               </value>
             </param>
             <param index="4">
@@ -128,21 +128,21 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="initializationOfElements()[pri:0, instance:test.pageobjects.SignUpTest@54a097cc]" name="initializationOfElements" is-config="true" duration-ms="0" started-at="2018-12-29T03:18:06Z" finished-at="2018-12-29T03:18:06Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- initializationOfElements -->
-        <test-method status="PASS" signature="SignUpTest()[pri:3, instance:test.pageobjects.SignUpTest@54a097cc]" name="SignUpTest" duration-ms="13316" started-at="2018-12-29T03:18:06Z" finished-at="2018-12-29T03:18:19Z">
+        <test-method status="PASS" signature="SignUpTest()[pri:3, instance:test.pageobjects.SignUpTest@54a097cc]" name="SignUpTest" duration-ms="13204" started-at="2018-12-29T04:36:57Z" finished-at="2018-12-29T04:37:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SignUpTest -->
-        <test-method status="PASS" signature="closeOut()[pri:0, instance:test.pageobjects.SignUpTest@54a097cc]" name="closeOut" is-config="true" duration-ms="514" started-at="2018-12-29T03:18:19Z" finished-at="2018-12-29T03:18:20Z">
+        <test-method status="PASS" signature="initializationOfElements()[pri:0, instance:test.pageobjects.SignUpTest@54a097cc]" name="initializationOfElements" is-config="true" duration-ms="0" started-at="2018-12-29T04:36:57Z" finished-at="2018-12-29T04:36:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializationOfElements -->
+        <test-method status="PASS" signature="closeOut()[pri:0, instance:test.pageobjects.SignUpTest@54a097cc]" name="closeOut" is-config="true" duration-ms="141" started-at="2018-12-29T04:37:10Z" finished-at="2018-12-29T04:37:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeOut -->
       </class> <!-- test.pageobjects.SignUpTest -->
       <class name="test.pageobjects.HomePageTest">
-        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.pageobjects.HomePageTest@35fb3008]" name="setUp" is-config="true" duration-ms="7978" started-at="2018-12-29T03:17:40Z" finished-at="2018-12-29T03:17:48Z">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.pageobjects.HomePageTest@35fb3008]" name="setUp" is-config="true" duration-ms="5063" started-at="2018-12-29T04:36:41Z" finished-at="2018-12-29T04:36:46Z">
           <params>
             <param index="0">
               <value>
@@ -151,17 +151,17 @@
             </param>
             <param index="1">
               <value>
-                <![CDATA[10]]>
+                <![CDATA[10.14]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[firefox]]>
+                <![CDATA[chrome]]>
               </value>
             </param>
             <param index="3">
               <value>
-                <![CDATA[62.0]]>
+                <![CDATA[71.0.3578.98]]>
               </value>
             </param>
             <param index="4">
@@ -173,15 +173,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="initializationOfElements()[pri:0, instance:test.pageobjects.HomePageTest@35fb3008]" name="initializationOfElements" is-config="true" duration-ms="65" started-at="2018-12-29T03:17:48Z" finished-at="2018-12-29T03:17:48Z">
+        <test-method status="PASS" signature="initializationOfElements()[pri:0, instance:test.pageobjects.HomePageTest@35fb3008]" name="initializationOfElements" is-config="true" duration-ms="34" started-at="2018-12-29T04:36:46Z" finished-at="2018-12-29T04:36:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializationOfElements -->
-        <test-method status="PASS" signature="searchTest()[pri:0, instance:test.pageobjects.HomePageTest@35fb3008]" name="searchTest" duration-ms="1840" started-at="2018-12-29T03:17:48Z" finished-at="2018-12-29T03:17:50Z">
+        <test-method status="PASS" signature="searchTest()[pri:0, instance:test.pageobjects.HomePageTest@35fb3008]" name="searchTest" duration-ms="1509" started-at="2018-12-29T04:36:46Z" finished-at="2018-12-29T04:36:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchTest -->
-        <test-method status="PASS" signature="closeOut()[pri:0, instance:test.pageobjects.HomePageTest@35fb3008]" name="closeOut" is-config="true" duration-ms="800" started-at="2018-12-29T03:17:50Z" finished-at="2018-12-29T03:17:51Z">
+        <test-method status="PASS" signature="closeOut()[pri:0, instance:test.pageobjects.HomePageTest@35fb3008]" name="closeOut" is-config="true" duration-ms="141" started-at="2018-12-29T04:36:48Z" finished-at="2018-12-29T04:36:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeOut -->

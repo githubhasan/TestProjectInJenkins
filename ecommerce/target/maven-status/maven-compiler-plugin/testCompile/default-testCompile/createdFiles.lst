@@ -1,0 +1,8 @@
+page/objects/HomePage.class
+page/objects/SignUp.class
+page/objects/ContactUsPage.class
+test/pageobjects/HomePageTest.class
+test/pageobjects/ContactUsPageTest.class
+test/pageobjects/LogInTest.class
+page/objects/LogIn.class
+test/pageobjects/SignUpTest.class
