@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Surefire suite]">
+  <test name="Surefire test(failed)">
+    <classes>
+      <class name="test.pageobjects.ContactUsPageTest">
+        <methods>
+          <include name="contactUsTest"/>
+          <include name="closeOut"/>
+          <include name="initializationOfElements"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- test.pageobjects.ContactUsPageTest -->
+      <class name="test.pageobjects.LogInTest">
+        <methods>
+          <include name="closeOut"/>
+          <include name="initializationOfElements"/>
+          <include name="LogInTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- test.pageobjects.LogInTest -->
+      <class name="test.pageobjects.HomePageTest">
+        <methods>
+          <include name="closeOut"/>
+          <include name="initializationOfElements"/>
+          <include name="searchTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- test.pageobjects.HomePageTest -->
+      <class name="test.pageobjects.SignUpTest">
+        <methods>
+          <include name="closeOut"/>
+          <include name="SignUpTest"/>
+          <include name="initializationOfElements"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- test.pageobjects.SignUpTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

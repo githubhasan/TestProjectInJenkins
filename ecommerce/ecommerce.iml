@@ -11,9 +11,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="generic" scope="TEST" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.testng:testng:6.11" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: com.beust:jcommander:1.64" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.yaml:snakeyaml:1.17" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.maven.plugins:maven-surefire-plugin:2.20.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.maven.surefire:maven-surefire-common:2.20.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.maven:maven-plugin-api:2.2.1" level="project" />
@@ -58,6 +55,9 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.sonatype.plexus:plexus-sec-dispatcher:1.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.sonatype.plexus:plexus-cipher:1.4" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.apache.maven:maven-toolchain:2.2.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.testng:testng:6.11" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: com.beust:jcommander:1.64" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.yaml:snakeyaml:1.17" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-java:3.14.0" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-api:3.14.0" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-chrome-driver:3.14.0" level="project" />
