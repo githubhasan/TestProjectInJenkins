@@ -17,6 +17,7 @@ public class LogInTest extends LogIn {
     @Test(priority = 3)
     public void LogInTest() throws InterruptedException {
         objOfLogIn.LogIn();
+        System.out.println("LoginPage - Test Passed");
     }
 
 }

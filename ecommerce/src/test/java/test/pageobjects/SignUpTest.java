@@ -21,6 +21,7 @@ import page.objects.SignUp;
         @Test(priority = 3)
         public void SignUpTest() throws InterruptedException {
             objOfSignUp.SignUp();
+            System.out.println("SignUpPage - Test Passed");
         }
 
     }

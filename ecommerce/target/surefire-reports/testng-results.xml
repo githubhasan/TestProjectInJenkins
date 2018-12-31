@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Automation Framework" duration-ms="58237" started-at="2018-12-29T08:21:06Z" finished-at="2018-12-29T08:22:04Z">
+  <suite name="Automation Framework" duration-ms="61164" started-at="2018-12-31T06:23:42Z" finished-at="2018-12-31T06:24:43Z">
     <groups>
     </groups>
-    <test name="E-Commerce Project" duration-ms="58237" started-at="2018-12-29T08:21:06Z" finished-at="2018-12-29T08:22:04Z">
+    <test name="E-Commerce Project" duration-ms="61164" started-at="2018-12-31T06:23:42Z" finished-at="2018-12-31T06:24:43Z">
       <class name="test.pageobjects.LogInTest">
-        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.pageobjects.LogInTest@36f6e879]" name="setUp" is-config="true" duration-ms="5754" started-at="2018-12-29T03:21:45Z" finished-at="2018-12-29T03:21:51Z">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.pageobjects.LogInTest@36f6e879]" name="setUp" is-config="true" duration-ms="6190" started-at="2018-12-31T01:24:24Z" finished-at="2018-12-31T01:24:30Z">
           <params>
             <param index="0">
               <value>
@@ -38,21 +38,21 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="initializationOfElements()[pri:0, instance:test.pageobjects.LogInTest@36f6e879]" name="initializationOfElements" is-config="true" duration-ms="0" started-at="2018-12-29T03:21:51Z" finished-at="2018-12-29T03:21:51Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- initializationOfElements -->
-        <test-method status="PASS" signature="LogInTest()[pri:3, instance:test.pageobjects.LogInTest@36f6e879]" name="LogInTest" duration-ms="12345" started-at="2018-12-29T03:21:51Z" finished-at="2018-12-29T03:22:03Z">
+        <test-method status="PASS" signature="LogInTest()[pri:3, instance:test.pageobjects.LogInTest@36f6e879]" name="LogInTest" duration-ms="12055" started-at="2018-12-31T01:24:30Z" finished-at="2018-12-31T01:24:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LogInTest -->
-        <test-method status="PASS" signature="closeOut()[pri:0, instance:test.pageobjects.LogInTest@36f6e879]" name="closeOut" is-config="true" duration-ms="666" started-at="2018-12-29T03:22:03Z" finished-at="2018-12-29T03:22:04Z">
+        <test-method status="PASS" signature="initializationOfElements()[pri:0, instance:test.pageobjects.LogInTest@36f6e879]" name="initializationOfElements" is-config="true" duration-ms="0" started-at="2018-12-31T01:24:30Z" finished-at="2018-12-31T01:24:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializationOfElements -->
+        <test-method status="PASS" signature="closeOut()[pri:0, instance:test.pageobjects.LogInTest@36f6e879]" name="closeOut" is-config="true" duration-ms="648" started-at="2018-12-31T01:24:42Z" finished-at="2018-12-31T01:24:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeOut -->
       </class> <!-- test.pageobjects.LogInTest -->
       <class name="test.pageobjects.ContactUsPageTest">
-        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.pageobjects.ContactUsPageTest@7225790e]" name="setUp" is-config="true" duration-ms="6008" started-at="2018-12-29T03:21:17Z" finished-at="2018-12-29T03:21:23Z">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.pageobjects.ContactUsPageTest@7225790e]" name="setUp" is-config="true" duration-ms="6589" started-at="2018-12-31T01:23:54Z" finished-at="2018-12-31T01:24:00Z">
           <params>
             <param index="0">
               <value>
@@ -83,21 +83,21 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="initializationOfElements()[pri:0, instance:test.pageobjects.ContactUsPageTest@7225790e]" name="initializationOfElements" is-config="true" duration-ms="4" started-at="2018-12-29T03:21:23Z" finished-at="2018-12-29T03:21:23Z">
+        <test-method status="PASS" signature="initializationOfElements()[pri:0, instance:test.pageobjects.ContactUsPageTest@7225790e]" name="initializationOfElements" is-config="true" duration-ms="4" started-at="2018-12-31T01:24:00Z" finished-at="2018-12-31T01:24:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializationOfElements -->
-        <test-method status="PASS" signature="contactUsTest()[pri:0, instance:test.pageobjects.ContactUsPageTest@7225790e]" name="contactUsTest" duration-ms="1430" started-at="2018-12-29T03:21:23Z" finished-at="2018-12-29T03:21:24Z">
+        <test-method status="PASS" signature="contactUsTest()[pri:0, instance:test.pageobjects.ContactUsPageTest@7225790e]" name="contactUsTest" duration-ms="1849" started-at="2018-12-31T01:24:00Z" finished-at="2018-12-31T01:24:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- contactUsTest -->
-        <test-method status="PASS" signature="closeOut()[pri:0, instance:test.pageobjects.ContactUsPageTest@7225790e]" name="closeOut" is-config="true" duration-ms="663" started-at="2018-12-29T03:21:24Z" finished-at="2018-12-29T03:21:25Z">
+        <test-method status="PASS" signature="closeOut()[pri:0, instance:test.pageobjects.ContactUsPageTest@7225790e]" name="closeOut" is-config="true" duration-ms="749" started-at="2018-12-31T01:24:02Z" finished-at="2018-12-31T01:24:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeOut -->
       </class> <!-- test.pageobjects.ContactUsPageTest -->
       <class name="test.pageobjects.SignUpTest">
-        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.pageobjects.SignUpTest@54a097cc]" name="setUp" is-config="true" duration-ms="5717" started-at="2018-12-29T03:21:25Z" finished-at="2018-12-29T03:21:31Z">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.pageobjects.SignUpTest@54a097cc]" name="setUp" is-config="true" duration-ms="7281" started-at="2018-12-31T01:24:03Z" finished-at="2018-12-31T01:24:10Z">
           <params>
             <param index="0">
               <value>
@@ -128,21 +128,21 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="initializationOfElements()[pri:0, instance:test.pageobjects.SignUpTest@54a097cc]" name="initializationOfElements" is-config="true" duration-ms="4" started-at="2018-12-29T03:21:31Z" finished-at="2018-12-29T03:21:31Z">
+        <test-method status="PASS" signature="initializationOfElements()[pri:0, instance:test.pageobjects.SignUpTest@54a097cc]" name="initializationOfElements" is-config="true" duration-ms="0" started-at="2018-12-31T01:24:10Z" finished-at="2018-12-31T01:24:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializationOfElements -->
-        <test-method status="PASS" signature="SignUpTest()[pri:3, instance:test.pageobjects.SignUpTest@54a097cc]" name="SignUpTest" duration-ms="13471" started-at="2018-12-29T03:21:31Z" finished-at="2018-12-29T03:21:44Z">
+        <test-method status="PASS" signature="SignUpTest()[pri:3, instance:test.pageobjects.SignUpTest@54a097cc]" name="SignUpTest" duration-ms="13431" started-at="2018-12-31T01:24:10Z" finished-at="2018-12-31T01:24:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SignUpTest -->
-        <test-method status="PASS" signature="closeOut()[pri:0, instance:test.pageobjects.SignUpTest@54a097cc]" name="closeOut" is-config="true" duration-ms="648" started-at="2018-12-29T03:21:44Z" finished-at="2018-12-29T03:21:45Z">
+        <test-method status="PASS" signature="closeOut()[pri:0, instance:test.pageobjects.SignUpTest@54a097cc]" name="closeOut" is-config="true" duration-ms="601" started-at="2018-12-31T01:24:23Z" finished-at="2018-12-31T01:24:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeOut -->
       </class> <!-- test.pageobjects.SignUpTest -->
       <class name="test.pageobjects.HomePageTest">
-        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.pageobjects.HomePageTest@35fb3008]" name="setUp" is-config="true" duration-ms="8849" started-at="2018-12-29T03:21:06Z" finished-at="2018-12-29T03:21:14Z">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.pageobjects.HomePageTest@35fb3008]" name="setUp" is-config="true" duration-ms="9509" started-at="2018-12-31T01:23:42Z" finished-at="2018-12-31T01:23:51Z">
           <params>
             <param index="0">
               <value>
@@ -173,15 +173,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="initializationOfElements()[pri:0, instance:test.pageobjects.HomePageTest@35fb3008]" name="initializationOfElements" is-config="true" duration-ms="85" started-at="2018-12-29T03:21:14Z" finished-at="2018-12-29T03:21:14Z">
+        <test-method status="PASS" signature="initializationOfElements()[pri:0, instance:test.pageobjects.HomePageTest@35fb3008]" name="initializationOfElements" is-config="true" duration-ms="69" started-at="2018-12-31T01:23:51Z" finished-at="2018-12-31T01:23:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializationOfElements -->
-        <test-method status="PASS" signature="searchTest()[pri:0, instance:test.pageobjects.HomePageTest@35fb3008]" name="searchTest" duration-ms="1741" started-at="2018-12-29T03:21:14Z" finished-at="2018-12-29T03:21:16Z">
+        <test-method status="PASS" signature="searchTest()[pri:0, instance:test.pageobjects.HomePageTest@35fb3008]" name="searchTest" duration-ms="1358" started-at="2018-12-31T01:23:51Z" finished-at="2018-12-31T01:23:53Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchTest -->
-        <test-method status="PASS" signature="closeOut()[pri:0, instance:test.pageobjects.HomePageTest@35fb3008]" name="closeOut" is-config="true" duration-ms="817" started-at="2018-12-29T03:21:16Z" finished-at="2018-12-29T03:21:17Z">
+        <test-method status="PASS" signature="closeOut()[pri:0, instance:test.pageobjects.HomePageTest@35fb3008]" name="closeOut" is-config="true" duration-ms="796" started-at="2018-12-31T01:23:53Z" finished-at="2018-12-31T01:23:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeOut -->
