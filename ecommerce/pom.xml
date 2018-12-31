@@ -3,9 +3,8 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>TestProjectInJenkins</artifactId>
-        <groupId>com.Test.Project.In.Jenkins</groupId>
-
+        <artifactId>webautomationnov18</artifactId>
+        <groupId>com.webautomation.nov18</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
@@ -14,7 +13,7 @@
 
   <dependencies>
         <dependency>
-            <groupId>com.Test.Project.In.Jenkins</groupId>
+            <groupId>com.webautomation.nov18</groupId>
             <artifactId>generic</artifactId>
             <version>1.0-SNAPSHOT</version>
             <scope>test</scope>

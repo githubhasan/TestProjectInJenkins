@@ -8,6 +8,14 @@
   <parameter name="url" value="http://www.buyonlinenow.com/"/>
   <test name="E-Commerce Project(failed)">
     <classes>
+      <class name="test.pageobjects.ContactUsPageTest">
+        <methods>
+          <include name="contactUsTest"/>
+          <include name="closeOut"/>
+          <include name="initializationOfElements"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- test.pageobjects.ContactUsPageTest -->
       <class name="test.pageobjects.LogInTest">
         <methods>
           <include name="closeOut"/>
@@ -16,6 +24,14 @@
           <include name="setUp"/>
         </methods>
       </class> <!-- test.pageobjects.LogInTest -->
+      <class name="test.pageobjects.SignUpTest">
+        <methods>
+          <include name="closeOut"/>
+          <include name="SignUpTest"/>
+          <include name="initializationOfElements"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- test.pageobjects.SignUpTest -->
     </classes>
   </test> <!-- E-Commerce Project(failed) -->
 </suite> <!-- Failed suite [Automation Framework] -->
